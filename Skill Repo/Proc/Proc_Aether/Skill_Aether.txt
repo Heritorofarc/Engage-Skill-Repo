@@ -1,0 +1,6 @@
+MSID_Aether:
+Aether
+
+MSID_H_Aether: 
+Use Sol and Luna in succession.
+Trigger %=half of Dex.

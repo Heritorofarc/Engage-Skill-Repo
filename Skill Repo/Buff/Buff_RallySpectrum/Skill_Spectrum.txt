@@ -1,0 +1,12 @@
+MSID_Spectrum:
+Rally Spectrum
+
+MSID_H_Spectrum:
+Use to grant +3 to all seven basic
+stats for allies within 2 spaces.
+
+MSID_Spectrum_CMD:
+Rally
+
+MSID_H_Spectrum_CMD:
+Grant +3 to all 7 stats
