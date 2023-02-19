@@ -1,0 +1,7 @@
+MSID_Aegis:
+Aegis
+
+MSID_H_Aegis: 
+If foe uses bows, tomes or knives, may 
+halve damage taken.
+Trigger %=Dex.
