@@ -1,0 +1,10 @@
+MSID_ArmoredWall:
+Armored Wall
+
+MSID_H_ArmoredWall:
+If unit's HP ≥25% at the start of combat:
+(1) Raise unit's trigger rates for all skills with trigger rates by 25%;
+(2) Lower foe's trigger rates for all skills with trigger rates by 20%;
+(3) Heal 7 HP at the end of combat;
+(4) If unit is also engaged, for the first enemy attack targeting unit
+during the current phase, reduce damage received by 40%.
