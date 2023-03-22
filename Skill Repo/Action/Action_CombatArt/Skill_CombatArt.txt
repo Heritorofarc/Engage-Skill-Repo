@@ -1,0 +1,10 @@
+MSID_CombatArt
+Combat Art
+
+MSID_H_CombatArt
+Use to make an attack 
+against an adjacent foe.
+Grants Mt/Hit/Avo/Crit/Ddg+0.
+
+MSID_H_CombatArt_CMD
+Lose 2 HP.
