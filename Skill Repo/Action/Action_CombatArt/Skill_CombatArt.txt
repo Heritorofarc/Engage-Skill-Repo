@@ -7,4 +7,4 @@ against an adjacent foe.
 Grants Mt/Hit/Avo/Crit/Ddg+0.
 
 MSID_H_CombatArt_CMD
-Lose 2 HP.
+Lose 1 HP.
