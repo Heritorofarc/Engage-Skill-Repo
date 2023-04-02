@@ -1,0 +1,5 @@
+MSID_DistantCounter:
+Distant Counter
+
+MSID_H_DistantCounter: 
+If foe initiates combat, grants range +1.
