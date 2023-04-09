@@ -1,0 +1,6 @@
+MSID_Spellblade:
+Spellblade
+
+MSID_H_Spellblade: 
+Unit's damage is calculated based on 
+foe's Res.
