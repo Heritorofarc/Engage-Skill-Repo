@@ -2,6 +2,6 @@ MSID_DeadlyBalance:
 Deadly Balance
 
 MSID_H_DeadlyBalance:
-If unit performs a critical hit, and if attack would have killed foe without a critical hit. Unit
+If unit performs a critical hit. Unit
 is guaranteed a critical for next combat.
 (Only once per combat, does not stack)
