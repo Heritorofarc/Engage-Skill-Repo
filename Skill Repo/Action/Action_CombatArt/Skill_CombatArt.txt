@@ -1,10 +1,13 @@
-MSID_CombatArt
+[MSID_CombatArt]
 Combat Art
 
-MSID_H_CombatArt
+[MSID_H_CombatArt]
 Use to make an attack 
 against an adjacent foe.
 Grants Mt/Hit/Avo/Crit/Ddg+0.
 
-MSID_H_CombatArt_CMD
+[MSID_H_CombatArt_CMD]
 Lose 1 HP.
+
+[MSID_WARNING_H_CombatArt_CMD]
+Can only be used if HP is above 1.
