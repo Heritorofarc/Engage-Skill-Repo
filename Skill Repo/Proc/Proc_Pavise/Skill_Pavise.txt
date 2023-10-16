@@ -1,7 +1,7 @@
-MSID_Pavise:
+[MSID_Pavise]
 Pavise
 
-MSID_H_Pavise: 
-If foe uses swords, axes, lances or arts,
-may halve damage taken.
+[MSID_H_Pavise]
+If foe is equipped with a sword/axe/lance/art,
+may prevent 50% of damage taken.
 Trigger %=Dex.
