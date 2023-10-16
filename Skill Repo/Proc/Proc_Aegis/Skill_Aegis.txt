@@ -1,7 +1,7 @@
-MSID_Aegis:
+[MSID_Aegis]
 Aegis
 
-MSID_H_Aegis: 
+[MSID_H_Aegis] 
 If foe uses bows, tomes, knives or special
-attacks, may halve damage taken.
+attacks, may prevent 50% of damage taken.
 Trigger %=Dex.
