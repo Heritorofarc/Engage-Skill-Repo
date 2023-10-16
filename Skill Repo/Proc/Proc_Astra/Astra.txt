@@ -1,5 +1,6 @@
-MSID_Astra:
+[MSID_Astra]
 Astra
 
-MSID_H_Astra:
-Unit performs 5 consecutive attacks at 50% damage. Trigger % = Dex
+[MSID_H_Astra]
+Unit may launch 5 attacks
+at 50% damage. Trigger %=Dex.
