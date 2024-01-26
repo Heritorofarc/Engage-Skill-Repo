@@ -1,6 +1,6 @@
-MSID_RideFast
+[MSID_RideFast]
 Tantivy
 
-MSID_H_RideFast
+[MSID_H_RideFast]
 If no allies are within 3 spaces of unit, 
 grants Hit/Avo+10 during combat.

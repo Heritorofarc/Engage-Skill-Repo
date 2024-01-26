@@ -1,6 +1,8 @@
-MSID_Aether:
+[MSID_Aether]
 Aether
 
-MSID_H_Aether: 
-Use Sol and Luna in succession.
+[MSID_H_Aether]
+Unit may attack twice; 
+first attack triggers Sol,
+and second attack triggers Luna.
 Trigger %=half of Dex.

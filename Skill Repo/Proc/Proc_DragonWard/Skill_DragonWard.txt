@@ -1,7 +1,7 @@
-MSID_DragonWard:
-DragonWard
+[MSID_DragonWard]
+Dragon Ward
 
-MSID_H_DragonWard: 
-Allies adjacent to the user may receive
-half damage from enemy attacks
-Trigger %=half of Lck.
+[MSID_H_DragonWard] 
+May prevent 50% of damage taken 
+by adjacent allies during combat.
+Trigger %=half of ally's Lck.
